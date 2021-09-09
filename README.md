@@ -2,7 +2,7 @@
 
 PeNSE (Pesquisa Nacional de Saúde Escolar) is a ressearch from IBOPE (Instituto Brasileiro de Opinião Públia e Estatística) aim to understund the student's behavior, personal and 
 social difficulties.
-In my ressearch i used the two more recent data: 2012 and 2015.
+In my ressearch I've used the two more recent data: 2012 and 2015.
 The database is too large, more than 25 MB, therefore a leave the link of the repository for dowload yourself...
 **Link:** https://www.ibge.gov.br/estatisticas/sociais/educacao/9134-pesquisa-nacional-de-saude-do-escolar.html?=&t=downloads
 
