@@ -8,5 +8,7 @@ The database is too large, more than 25 MB, therefore a leave the link of the re
 
 **About the files**
 Query_PENSE.sql -> Analyses and codes of all data
+
 AE.ppt -> The presentation with my point of view from the data that I observed, within some graphs and a storytelling.
+
 AE.pbix -> The dashboard that I created to analyse more and better,
