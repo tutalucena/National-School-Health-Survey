@@ -10,6 +10,6 @@ The database is too large, more than 25 MB, therefore a leave the link of the re
 
 - Query_PENSE.sql -> Analyses and codes of all data
 
-- AE.ppt -> The presentation with my point of view from the data that I observed, within some graphs and a storytelling.
+- AE.ppt -> The presentation with my point of view from the data that I observed, within some graphs and a storytelling
 
-- AE.pbix -> The dashboard that I created to analyse more and better,
+- AE.pbix -> The dashboard that I created to vizualise all the insights from SQL
