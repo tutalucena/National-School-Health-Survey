@@ -1,6 +1,6 @@
 # PeNSE 2012 & 2015 Analyses
 
-**Exploratory and Descriptive Analyses**
+**Exploratory and Descriptive Analysis focus on Storytelling**
 
 In my ressearch I've used the two more recent data: 2012 and 2015.
 The database is too large, more than 25 MB, therefore a leave the link of the repository for dowload yourself...
